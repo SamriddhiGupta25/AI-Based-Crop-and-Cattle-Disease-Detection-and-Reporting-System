@@ -1,4 +1,5 @@
-# Welcome to your Expo app 👋
+# Welcome to AI-Based Crop and Cattle Disease Detection and Reporting System 👋
+![image alt](https://github.com/SamriddhiGupta25/AI-Based-Crop-and-Cattle-Disease-Detection-and-Reporting-System/blob/c062cfca072c5722588ee092af72c66226a1fe54/Screenshot%202025-07-10%20075736.png)
 
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
 
